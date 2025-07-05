@@ -17,14 +17,23 @@ It uses a UUID-based presence detection mechanism with a presence timeout to avo
 ## 📂 Directory Structure
 
 BLE_Lab_Attendance_System/
+
 ├── Android_BLE_Beacon_App/
+
 ├── ESP32_BLE_Scanner/
+
 │ ├── Floor_1_Scanner/
+
 │ ├── Floor_2_Scanner/
+
 │ └── common/
+
 ├── Attendance_Logs/
+
 ├── launch.md
+
 ├── README.md
+
 └── LICENSE
 
 ---
