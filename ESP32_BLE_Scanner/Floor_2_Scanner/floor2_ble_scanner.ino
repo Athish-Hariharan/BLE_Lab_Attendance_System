@@ -13,7 +13,7 @@ BLEScan* pBLEScan;
 void setup() {
   Serial.begin(115200);
   SD.begin(5);
-  BLEDevice::init("Floor 1 Scanner");
+  BLEDevice::init("Floor 2 Scanner");
   pBLEScan = BLEDevice::getScan();
   pBLEScan->setActiveScan(true);
   pBLEScan->setInterval(1000);
