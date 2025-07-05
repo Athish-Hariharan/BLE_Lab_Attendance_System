@@ -1,0 +1,3 @@
+*.log
+Attendance_Logs/*
+!Attendance_Logs/.gitkeep
